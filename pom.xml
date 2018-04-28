@@ -26,13 +26,13 @@ limitations under the License.
   <version>1</version>
 
   <!-- [START_EXCLUDE]
-  <parent>                                  <!-- Get parameters and allow bulk testing 
+  <parent>                                  Get parameters and allow bulk testing 
     <artifactId>getting-started-java</artifactId>
     <groupId>com.example</groupId>
     <version>1.0.0</version>
     <relativePath>../..</relativePath>
   </parent>
-  <!-- [END_EXCLUDE] -->
+   [END_EXCLUDE] -->
 
 <!-- [START properties] -->
   <properties>
