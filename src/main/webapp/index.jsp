@@ -21,18 +21,17 @@
 <html>
 <head>
   <link href='//fonts.googleapis.com/css?family=Marmelad' rel='stylesheet' type='text/css'>
-  <title>Hello App Engine Standard Java 8</title>
+  <title>My first demo GC App engine </title>
 </head>
 <body>
-    <h1>Hello App Engine -- Java 8!</h1>
+    <h1>Hi SreeHari, Welcome to your first page</h1>
 
-  <p>This is <%= HelloAppEngine.getInfo() %>.</p>
   <table>
     <tr>
-      <td colspan="2" style="font-weight:bold;">Available Servlets:</td>
+      <td colspan="2" style="font-weight:bold;">First row</td>
     </tr>
     <tr>
-      <td><a href='/hello'>Hello App Engine</a></td>
+      <td><a href='myJsp.jsp'>goto myJsp.jsp</a></td>
     </tr>
   </table>
 
