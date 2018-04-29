@@ -17,7 +17,7 @@
       <td colspan="2" style="font-weight:bold;">First row</td>
     </tr>
     <tr>
-      <td><a href='index.jsp'>index.jsp</a></td>
+      <td><a href='index.html'>index.html</a></td>
     </tr>
   </table>
 
